@@ -9,10 +9,11 @@ matplotlib = "*"
 seaborn = "*"
 polars = "*"
 numpy = "*"
-sklearn = "*"
 ipykernel = "*"
 requests = "*"
 bs4 = "*"
+black = "*"
+scikit-learn = "*"
 
 [dev-packages]
 
