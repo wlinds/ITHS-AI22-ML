@@ -15,6 +15,7 @@ bs4 = "*"
 black = "*"
 scikit-learn = "*"
 "plotly.express" = "*"
+keyboard = "*"
 
 [dev-packages]
 
