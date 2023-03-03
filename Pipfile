@@ -16,6 +16,7 @@ black = "*"
 scikit-learn = "*"
 "plotly.express" = "*"
 keyboard = "*"
+tensorflow = "*"
 
 [dev-packages]
 
