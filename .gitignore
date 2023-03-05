@@ -129,3 +129,7 @@ dmypy.json
 .pyre/
 
 *.DS_Store
+
+# ignore large files
+Data/ml-latest/genome-scores.csv
+Data/ml-latest/ratings.csv
