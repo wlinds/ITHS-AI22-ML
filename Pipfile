@@ -17,6 +17,9 @@ scikit-learn = "*"
 "plotly.express" = "*"
 keyboard = "*"
 tensorflow = "*"
+nltk = "*"
+fuzzywuzzy = "*"
+levenshtein = "*"
 
 [dev-packages]
 
