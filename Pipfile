@@ -18,8 +18,8 @@ scikit-learn = "*"
 keyboard = "*"
 tensorflow = "*"
 nltk = "*"
-fuzzywuzzy = "*"
 levenshtein = "*"
+fuzzywuzzy = "*"
 
 [dev-packages]
 
