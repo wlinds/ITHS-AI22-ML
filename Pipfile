@@ -20,6 +20,8 @@ tensorflow = "*"
 nltk = "*"
 levenshtein = "*"
 fuzzywuzzy = "*"
+tweepy = "*"
+python-twitter-v2 = "*"
 
 [dev-packages]
 
