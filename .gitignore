@@ -133,3 +133,8 @@ dmypy.json
 # ignore large files
 Data/ml-latest/genome-scores.csv
 Data/ml-latest/ratings.csv
+
+# ignore api key
+Explorations/apikey.py
+Explorations/test.ipynb
+test.py
