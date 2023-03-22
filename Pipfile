@@ -23,6 +23,7 @@ fuzzywuzzy = "*"
 tweepy = "*"
 python-twitter-v2 = "*"
 graphviz = "*"
+lxml = "*"
 
 [dev-packages]
 
