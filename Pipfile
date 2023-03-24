@@ -14,7 +14,6 @@ requests = "*"
 bs4 = "*"
 black = "*"
 scikit-learn = "*"
-"plotly.express" = "*"
 keyboard = "*"
 tensorflow = "*"
 nltk = "*"
@@ -24,6 +23,8 @@ tweepy = "*"
 python-twitter-v2 = "*"
 graphviz = "*"
 lxml = "*"
+nbformat = "*"
+audioflux = "*"
 
 [dev-packages]
 
