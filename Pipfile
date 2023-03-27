@@ -25,6 +25,7 @@ graphviz = "*"
 lxml = "*"
 nbformat = "*"
 audioflux = "*"
+csv-ical = "*"
 
 [dev-packages]
 
