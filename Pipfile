@@ -26,6 +26,7 @@ lxml = "*"
 nbformat = "*"
 audioflux = "*"
 csv-ical = "*"
+openai = "*"
 
 [dev-packages]
 
