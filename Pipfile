@@ -27,6 +27,12 @@ nbformat = "*"
 audioflux = "*"
 csv-ical = "*"
 openai = "*"
+torch = "*"
+transformers = "==2.1.0"
+datasets = "*"
+tqdm = "*"
+beir = "*"
+mteb = "*"
 
 [dev-packages]
 
