@@ -1,7 +1,7 @@
-import torch.nn. functional as F
+import torch.nn.functional as F
 import torch
 import numpy as np
-from sklearn.metrics. pairwise import cosine_similarity
+from sklearn.metrics.pairwise import cosine_similarity
 from transformers import AutoTokenizer, AutoModel
 
 # mean pooling from sbert
@@ -28,7 +28,7 @@ def generate_embeddings(tokenizer, model, documents):
         return_tensors="pt",
     )
 
-    with torch. inference_mode():
+    with torch.inference_mode():
         outputs = model(**batch_dict)
     return mean_pooling(outputs, batch_dict["attention_mask"]).cpu().numpy()
 
